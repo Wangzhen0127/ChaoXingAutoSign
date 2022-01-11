@@ -1,4 +1,4 @@
-# ⚠二维码签到会提示无权获取，目前没找到解决办法，先手动二维码签到吧
+
 
 # ChaoXingAutoSign
 超星学习通-自动签到（ChaoXingAutoSign）
