@@ -7,7 +7,7 @@
 > settings--->secrets
 
 ## USERNAME
-学习通的账号
+学习通的账
 ## PASSWORD
 学习通的密码
 ## sleepTime
